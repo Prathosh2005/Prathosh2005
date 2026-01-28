@@ -1,22 +1,38 @@
-##👋 Hi, I'm Prathosh  
-Java Backend Developer | Spring Boot | REST APIs | DSA Learner
-
-### 🛠 Tech Stack
-- Language: Java
-- Backend: Spring Boot, REST APIs
-- Database: MySQL
-- Tools: Git, GitHub, Maven, Postman
-- Learning: DSA, System Design (Basics)
+## Prathosh Thangaraj  
+Backend Engineering Intern Candidate  
+Java • Spring Boot • REST APIs • MySQL • JWT Security
 
 
-### 🧠 LeetCode Stats
+I am a backend-focused developer with hands-on experience building secure and
+scalable REST APIs using Spring Boot. I have implemented layered architectures
+with DTOs, validation, pagination, and JWT-based authentication.
+
+Currently focused on strengthening DSA fundamentals while building
+production-style backend projects.
+
+### 🛠 Backend Expertise
+- Java (Core + OOP)
+- Spring Boot (REST APIs, Validation, Pagination)
+- JWT Authentication & Authorization
+- MySQL & JPA/Hibernate
+- DTO, Service, Controller layered architecture
+- Exception handling & API error design
+
+### 🧠 Problem Solving (DSA)
+- Solved 100+ problems on LeetCode using Java
+- Strong in Arrays & Strings
+- Actively improving Trees & Graphs
+- Focus on clean logic and optimal solutions
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prathosh_Thangaraj?theme=light&font=Karma&ext=contest)
 
-### 📊 DSA Practice
-- Solving problems on LeetCode (Java)
-- Focus on problem-solving patterns
-- Actively improving time & space optimization
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_title=true)
+
+### 📌 Current Focus
+- Backend internship preparation
+- Improving Trees & Graph problem-solving
+- Writing cleaner, production-ready APIs
+
 
 <!--
 **Prathosh2005/Prathosh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
