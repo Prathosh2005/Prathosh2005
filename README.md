@@ -26,7 +26,7 @@ production-style backend projects.
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Prathosh_Thangaraj?theme=light&font=Karma&ext=contest)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?Prathosh2005=YOUR_GITHUB&show_icons=true&hide_title=true)
 
 ### 📌 Current Focus
 - Backend internship preparation
