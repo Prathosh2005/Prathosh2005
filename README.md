@@ -1,50 +1,73 @@
-## Prathosh Thangaraj  
-Backend Engineering Intern Candidate  
-Java • Spring Boot • REST APIs • MySQL • JWT Security
+<h1 align="center">
+  Hi, I'm Prathosh Thangaraj
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+</h1>
+
+<p align="center">
+  <em>Backend Engineering | Java • Spring Boot • REST APIs</em>
+</p>
+
+<p align="center">
+  📍 Tamil Nadu, India &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/prathosh-thangaraj" target="_blank">LinkedIn</a>
+</p>
 
 
-I am a backend-focused developer with hands-on experience building secure and
-scalable REST APIs using Spring Boot. I have implemented layered architectures
-with DTOs, validation, pagination, and JWT-based authentication.
+---
 
-Currently focused on strengthening DSA fundamentals while building
-production-style backend projects.
+## 🧠 About Me
 
-### 🛠 Backend Expertise
-- Java (Core + OOP)
-- Spring Boot (REST APIs, Validation, Pagination)
-- JWT Authentication & Authorization
-- MySQL & JPA/Hibernate
-- DTO, Service, Controller layered architecture
-- Exception handling & API error design
+I am a backend-focused developer with hands-on experience in building
+secure and scalable REST APIs using Spring Boot. I follow clean layered
+architecture and enjoy solving DSA problems using Java.
 
-### 🧠 Problem Solving (DSA)
-- Solved 100+ problems on LeetCode using Java
+Currently preparing for **backend internship roles** while improving
+problem-solving skills in Trees and Graphs.
+
+---
+
+## 🛠 Backend Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 🧠 DSA & LeetCode
+
+- Solved 50+ LeetCode problems (Java)
 - Strong in Arrays & Strings
 - Actively improving Trees & Graphs
-- Focus on clean logic and optimal solutions
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Prathosh_Thangaraj?theme=light&font=Karma&ext=contest)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prathosh_Thangaraj?theme=light&font=Karma"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?Prathosh2005=YOUR_GITHUB&show_icons=true&hide_title=true)
+---
 
-### 📌 Current Focus
-- Backend internship preparation
-- Improving Trees & Graph problem-solving
-- Writing cleaner, production-ready APIs
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Prathosh2005&theme=dark"/>
+</p>
 
-<!--
-**Prathosh2005/Prathosh2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathosh2005&theme=react-dark"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathosh-thangaraj">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
